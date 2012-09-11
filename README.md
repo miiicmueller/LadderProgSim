@@ -1,4 +1,0 @@
-LadderProgSim
-=============
-
-Ladder Programmation Simulator
